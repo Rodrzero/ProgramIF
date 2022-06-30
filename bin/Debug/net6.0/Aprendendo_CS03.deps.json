@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aprendendo_CS03/1.0.0": {
+        "runtime": {
+          "Aprendendo_CS03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aprendendo_CS03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
